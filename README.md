@@ -8,7 +8,7 @@ You can add in your images and test the model on them, or choose from the exampl
 You can also play around with the Object Threshold and Non-Maximum Suppression Threshold.
   
 ```
-git clone https://github.com/SamriddhiBhardwaj/see-how-a-car-sees
+git clone https://github.com/samriddb/see-how-a-car-sees
 ```
 You can start the server in CLI with:
 ```
